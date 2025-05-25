@@ -4,3 +4,21 @@
 @import 'main';
 
 /* append your custom style below */
+
+
+.btn:hover {
+  background-color: #4d48ab !important;
+}
+
+a:hover {
+  color: rgb(138, 180, 248) !important;
+}
+
+.content a:not(.img-link):hover,
+.post-meta a:not([class]):hover,
+#access-lastmod a:hover,
+footer a:hover {
+  color: rgb(138, 180, 248) !important;
+  border-bottom: 1px solid #4d48ab !important;
+  text-decoration: none;
+}
