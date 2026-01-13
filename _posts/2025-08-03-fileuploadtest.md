@@ -1,7 +1,7 @@
 ---
 title: 파일 업로드 실습 (1)
 date: 2025-08-03 03:03 +09:00
-categories: [보안기사, 웹]
+categories: [웹해킹, 파일 업로드]
 tags: [웹보안, 웹해킹, fileupload]
 ---
 <br>
